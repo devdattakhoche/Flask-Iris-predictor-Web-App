@@ -26,7 +26,7 @@ BulmaCSS is used for the frontend.
 
 To run the app locally, enter these commands in your terminal: 
 
-> git clone https://github.com/agoel00/IrisPredictorWebApp
+> git clone https://github.com/devdattakhoche/Flask-Iris-predictor-Web-App
 
 This downloads the repository from Github to your local machine
 
